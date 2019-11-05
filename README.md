@@ -1,4 +1,5 @@
 # vue-calendar
+Simple example vue + vuetify + firebase project
 
 ## Project setup
 ```
